@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently working on my portfolio site which is a space to share/express my skills, talents and write blogs about interesting topics. 
+
 <!--
 **nimesh-govind/nimesh-govind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
